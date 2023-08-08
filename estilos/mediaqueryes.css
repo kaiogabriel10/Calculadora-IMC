@@ -1,0 +1,17 @@
+/* other screen*/
+
+@media screen and (min-width:768px) and (max-width:992px){
+    body{
+        background-image: linear-gradient(90deg,  #252550),  rgb(74, 74, 149);
+    }
+}
+@media screen and (min-width:992px) and (max-width:1200px){
+    body{
+        background-image: linear-gradient(90deg,  #252550),  rgb(74, 74, 149);
+    }
+}
+@media screen and (min-width:1210px){
+    body{
+        background-image: linear-gradient(90deg,  #252550),  rgb(74, 74, 149);
+    }
+}
